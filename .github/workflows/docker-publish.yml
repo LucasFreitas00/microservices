@@ -33,11 +33,11 @@ jobs:
 
       - name: Build Cambio Service Jar
         working-directory: ./cambio-service
-        run: vn clean package -DskipTests
+        run: mvn clean package -DskipTests
 
       - name: Build Book Service Jar
         working-directory: ./book-service
-        run: vn clean package -DskipTests
+        run: mvn clean package -DskipTests
         
       - name: Docker Compose Build
         working-directory: ./
