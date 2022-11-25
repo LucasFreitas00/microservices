@@ -1,0 +1,5 @@
+io\github\lucasdsf\cambioservice\CambioServiceApplication.class
+io\github\lucasdsf\cambioservice\configuration\OpenApiConfiguration.class
+io\github\lucasdsf\cambioservice\repository\CambioRepository.class
+io\github\lucasdsf\cambioservice\controller\CambioController.class
+io\github\lucasdsf\cambioservice\model\Cambio.class

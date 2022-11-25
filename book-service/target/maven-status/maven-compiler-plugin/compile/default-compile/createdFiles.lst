@@ -1,0 +1,8 @@
+io\github\lucasdsf\controller\BookController.class
+io\github\lucasdsf\Model\Book.class
+io\github\lucasdsf\BookServiceApplication.class
+io\github\lucasdsf\proxy\CambioProxy.class
+io\github\lucasdsf\controller\FooBarController.class
+io\github\lucasdsf\configuration\OpenApiConfiguration.class
+io\github\lucasdsf\repository\BookRepository.class
+io\github\lucasdsf\response\Cambio.class
